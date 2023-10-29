@@ -56,10 +56,10 @@ egrep "\b(A|a)[-a-z]*\b" katinka_rabe.word_list.txt > Aardvark.txt
 Processing texts, regular expressions.
 
 This is Stephen Cole Kleene, who invented them:  
-![Picture of Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene#/media/File:Kleene.jpg)
+![Picture of Stephen Cole Kleene](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kleene.jpg)
 
 ## Week 5
-Scripts make live simplier and bring joy!
+Scripts make live simpler and bring joy!
 
 ## Week 6
 Program installations, nothing more to say... But _make_ command is great!
@@ -81,6 +81,7 @@ git merge cmdline_course
 and then push! And that's pretty much all!
 
 ## And last, but not least:
+
 Course | Year | My Opinion
 --- | --- | ---
 *Command-Line Tools for Linguists* | `2023` | **GREAT!**
