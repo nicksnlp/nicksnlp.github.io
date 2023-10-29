@@ -56,7 +56,7 @@ egrep "\b(A|a)[-a-z]*\b" katinka_rabe.word_list.txt > Aardvark.txt
 Processing texts, regular expressions.
 
 This is Stephen Cole Kleene, who invented them:  
-![Picture of Stephen Cole Kleene](https://en.wikipedia.org/wiki/Stephen_Cole_Kleene#/media/File:Kleene.jpg)
+![Picture of Stephen Cole Kleene](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kleene.jpg)
 
 ## Week 5
 Scripts make live simpler and bring joy!
