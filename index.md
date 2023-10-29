@@ -4,24 +4,29 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi there! This is my webpage. I study at Helsinki University, MA in Language Technology. I speak English, Swedish, Russian and a bit of French. The next on the list are Latvian, Finnish and Dutch, but for now I will probably concentrate more on Python and Haskell.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/nikolay-vorontsov/), [GitHub](https://github.com/nicksnlp)
 
-## Contact
+## Contacts
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is compiled by adding my name and my surname, and separating them with a **dot** @helsinki.fi. Use the same style for gmail. If you look at [my artwork](artwork), you will find my phone.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Command-Line Tools for linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), Autumn 2023
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Introduction to Linguistic Diversity and Digital Humanities](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-9df97501-21e6-4b8d-9de4-e91303f2ff71/LDA-301), Autumn 2023
 
 ## Projects
 
-## Misc. 
+[_cmdline-course_](https://github.com/nicksnlp/cmdline-course) on GitHub.  
+Various tests and tries in text processing, straight into command line, no extra knowledge is needed.
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+## Misc.
+
+My artwork can be found [**here**](artwork). 
+
+[artwork]: https://nikolayvorontsov.wordpress.com/ 
