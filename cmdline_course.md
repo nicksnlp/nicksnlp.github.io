@@ -4,6 +4,7 @@ layout: default
 
 ## About the course
 A nice introduction to the command line and basic programming environment.  
+   
 As this was my first course, it was also a good intro to learning at Helsinkin University in general, the self-assisted learning style and the assignements/grading system.
 
 ## Week 1
@@ -23,7 +24,7 @@ Processing texts, regular expressions.
 Scripts make live simplier and bring joy!
 
 ## Week 6
-Program installations, nothing more to say.. But _make_ command is great!
+Program installations, nothing more to say... But _make_ command is great!
 
 ## Week 7
 Version Control, I think I liked it.
