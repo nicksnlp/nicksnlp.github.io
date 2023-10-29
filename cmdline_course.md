@@ -55,8 +55,12 @@ egrep "\b(A|a)[-a-z]*\b" katinka_rabe.word_list.txt > Aardvark.txt
 ## Week 4
 Processing texts, regular expressions.
 
+Trivial example:
+
+
+
 This is Stephen Cole Kleene, who invented them:  
-![Picture of Stephen Cole Kleene](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kleene.jpg)
+![Picture of Stephen Cole Kleene](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kleene.jpg)  
 
 ## Week 5
 Scripts make live simpler and bring joy!
