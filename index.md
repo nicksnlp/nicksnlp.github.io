@@ -6,6 +6,8 @@ layout: default
 
 Hi there! This is my webpage. I study at Helsinki University, MA in Language Technology. I speak English, Swedish, Russian and a bit of French. The next on the list are Latvian, Finnish and Dutch, but for now I will probably concentrate more on Python and Haskell.
 
+You can find my CV [here](assets/documents/Nikolay_Vorontsov____CV.pdf).
+
 ## Find me on
 
 [LinkedIn](https://www.linkedin.com/in/nikolay-vorontsov/), [GitHub](https://github.com/nicksnlp)
