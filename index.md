@@ -12,7 +12,7 @@ Hi there! This is my webpage. I study at Helsinki University, MA in Language Tec
 
 ## Contacts
 
-My email address is compiled by adding my name and my surname, and separating them with a **dot** @helsinki.fi. Use the same style for gmail. If you look at [my artwork](artwork), you will find my phone.
+My email address is compiled by adding my name and my surname, and separating them with a **dot** @helsinki.fi. Use the same style for gmail. If you look at my artwork, you will find my phone.
 
 ## Courses I've Taken
 
@@ -27,6 +27,4 @@ Various tests and tries in text processing, straight into command line, no extra
 
 ## Misc.
 
-My artwork can be found [**here**](artwork). 
-
-[artwork]: https://nikolayvorontsov.wordpress.com/ 
+My artwork can be found [**here**](https://nikolayvorontsov.wordpress.com/). 
