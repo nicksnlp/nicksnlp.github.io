@@ -14,7 +14,7 @@ You can find my CV [here](assets/documents/Nikolay_Vorontsov____CV.pdf).
 
 ## Contacts
 
-My email address is compiled by adding my name and my surname, and separating them with a **dot** @helsinki.fi. Use the same style for gmail. If you look at my artwork, you will find my phone.
+My email address is compiled by adding my name to my surname, and separating them with a **dot** @helsinki.fi. Use the same style for gmail. If you look at my artwork, you will find my phone.
 
 ## Courses I've Taken
 

@@ -9,7 +9,7 @@ As this was my first course, it was also a good intro to learning at Helsinki U
 
 ## Week 1
 Basic intro.  
-Well, the first week teaches you to walk, and to navigate your system, using command line and the pipeline e.g.:  
+Well, the first week teaches you to walk, and to navigate your system, using command line and the pipeline, e.g.:  
 
 ```
 cat file.txt | sort
@@ -66,7 +66,7 @@ This is Stephen Cole Kleene, who invented them:
 
 ### tr, sed, grep
 
-**tr** is nice, but **sed** is even nicer, as it substitutes patterns with something else. Of course, *sed -E* brings even more opportunities, especially as combined with *grep*.
+**tr** is nice, but **sed** is even nicer, as it substitutes patterns with something else. Of course, **sed -E** brings even more opportunities, especially as combined with **grep**.
 
 ```
 sed 's/^$/#'
