@@ -22,15 +22,15 @@ My email address is compiled by adding my name to my surname, and separating the
 
 [Introduction to Linguistic Diversity and Digital Humanities](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-9df97501-21e6-4b8d-9de4-e91303f2ff71/LDA-301), Autumn 2023
 
-[Computational Morphology](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-a2cfd8ac-27c2-412a-97f4-79a8ec1586eb/LDA-T302)
+[Computational Morphology](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-a2cfd8ac-27c2-412a-97f4-79a8ec1586eb/LDA-T302), Autumn 2023
 
-[Programming for Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-2b1a1c0f-9701-4397-9e19-ab80b0c87af4/KIK-LG208)
+[Programming for Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-2b1a1c0f-9701-4397-9e19-ab80b0c87af4/KIK-LG208), Autumn 2023
 
-[Computational Syntax](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-4b7c0cef-1d93-4d71-9c89-24f5edb64430/LDA-T303)
+[Computational Syntax](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-4b7c0cef-1d93-4d71-9c89-24f5edb64430/LDA-T303), Spring 2023
 
-[Building Natural Language Processing Applications](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-ffa303d9-0028-42e4-9f84-90799fec03a9/LDA-T316)
+[Building Natural Language Processing Applications](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-ffa303d9-0028-42e4-9f84-90799fec03a9/LDA-T316), Spring 2023
 
-[Approaches to Natural Language Understanding](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-12ceef6e-ec52-4d28-a267-06c9f2149328/LDA-T313)
+[Approaches to Natural Language Understanding](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-12ceef6e-ec52-4d28-a267-06c9f2149328/LDA-T313), Spring 2023
 
 <!--
 ## Projects
