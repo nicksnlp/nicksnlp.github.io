@@ -32,6 +32,8 @@ My email address is compiled by adding my name to my surname, and separating the
 
 [Approaches to Natural Language Understanding](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-12ceef6e-ec52-4d28-a267-06c9f2149328/LDA-T313), Spring 2023
 
+[Machine Learning for Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-6baf2c75-648b-46ee-94e3-b8e47f50083f/LDA-T317)
+
 <!--
 ## Projects
 
