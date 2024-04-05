@@ -16,7 +16,7 @@ You can find my CV [here](assets/documents/Nikolay_Vorontsov____CV.pdf).
 
 My email address is compiled by adding my name to my surname, and separating them with a **dot** @helsinki.fi. Use the same style for gmail. If you look at my artwork, you will find my phone.
 
-## Courses I've Taken at Helsinki Uni.
+## Courses I've taken at Helsinki University
 
 [Command-Line Tools for linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221), Autumn 2023
 
